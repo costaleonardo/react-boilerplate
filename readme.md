@@ -31,4 +31,4 @@ npm run build:prod
 
 ## License
 
-This biolerplate is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+This boilerplate is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
