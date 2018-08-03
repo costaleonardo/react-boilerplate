@@ -1,7 +1,34 @@
-# Git Commands
+# React Boilerplate
 
-git init - Create a new git repo
-git status - View the changes to your project code
-git add - Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+React boilerplate with minimum configuration.
+
+## Quick Start
+
+```bash
+# Install dependencies
+npm install
+
+# Run client
+npm run dev-server
+
+# Run test with Jest
+npm run test
+
+# Run build for development
+npm run build:dev
+
+# Run build for production
+npm run build:prod
+
+# Client runs on http://localhost:8080
+```
+
+## App Info
+
+### Author
+
+[Leonardo Da Costa](https://costaleonardo.github.io/)
+
+## License
+
+This biolerplate is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
